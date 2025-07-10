@@ -1,5 +1,5 @@
 import LogoSection from "./components/sections/LogoSection";
-import NavBar from "./components/navBar";
+import NavBar from "./components/NavBar";
 import Hero from "./components/sections/Hero";
 import ShowcaseSection from "./components/sections/ShowcaseSection";
 import FeaturesCards from "./components/sections/FeaturesCards";
